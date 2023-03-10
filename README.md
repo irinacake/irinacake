@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @irinacake
 - 👀 I am interested in Embedded Systems in Aerospace
 - 🌱 I am currently studying for a Master's Degree in Embedded Systems
-- 💞️ Iam looking to collaborate on ... who knows...
+- 💞️ I am looking to collaborate on ... who knows...
 - 📫 How to reach me : Irina#5536 on Discord, or by email courtines.e@gmail.com
 
 <!---
