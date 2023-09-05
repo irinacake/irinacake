@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @irinacake
-- 👀 I am interested in Embedded Systems in Aerospace
 - 🌱 I am currently studying for a Master's Degree in Embedded Systems
 - 📫 How to reach me : @chabigesi on Discord, or by email chabigesi@gmail.com
 
