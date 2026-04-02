@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irinacake
-- 🌱 I am currently studying for a Master's Degree in Embedded Systems
-- 📫 How to reach me : @chabigesi on Discord, or by email chabigesi@gmail.com
+- 🌱 I have a Master's Degree in Embedded Systems
+- 📫 How to reach me : by email chabigesi@gmail.com
 
 <!---
 irinacake/irinacake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
